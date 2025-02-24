@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78ce2855-73c8-4068-a9ee-1022d41615ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.npmrc" beforeDir="false" afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.nvmrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.prettierrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/extensions.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/extensions.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/apple-touch-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatars/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatars/12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatars/13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatars/14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/avatars/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/banners/banner-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/american-express-with-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/analog-clock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/australia.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/australia.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/background-user.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/brazil.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/brazil.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/china.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/china.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/congratulations-john.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/france.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/france.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/glass-house.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/iPhone-11-pro.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/india.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/india.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/mastercard-with-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/paper-boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/us.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/cards/us.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/visa-with-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/cards/watch-on-hand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/file-icons/doc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/file-icons/js.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/file-icons/pdf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/file-icons/txt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/file-icons/xls.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/event-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/figma-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/figma.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/html-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/html5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/python.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/react-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/react.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/sketch-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/sketch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/social-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/support-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/twitter-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/vue-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/vue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/xamarin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/icons/project-icons/xd-label.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/american-express.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/american-express.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/asana.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/asana.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/behance.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/behance.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/bootstrap.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/bootstrap.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/brave.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/brave.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/chrome.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/chrome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/dribbble.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/dribbble.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/figma.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/figma.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/google-chrome.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/google-chrome.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/google.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/instagram.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/internet-explorer.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/internet-explorer.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/laravel.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/laravel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/linkedin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/mail-chimp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/mastercard.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/mastercard.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/mozilla-firefox.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/mozilla-firefox.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/opera-mini.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/opera-mini.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/react.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/react.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/safari.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/safari.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/sketch.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/sketch.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/slack.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/slack.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/visa.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/logos/visa.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logos/vuejs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/misc/chart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/misc/paypal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/misc/shoe.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/misc/upload-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/misc/upload-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/401.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/add-new-role-illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-forgot-password-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-forgot-password-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-login-illustration-bordered-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-login-illustration-bordered-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-login-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-login-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-mask-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-mask-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-illustration-bordered-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-illustration-bordered-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-multi-steps-illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-multi-steps-mask-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-register-multi-steps-mask-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-reset-password-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-reset-password-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-two-steps-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-two-steps-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-verify-email-illustration-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/auth-v2-verify-email-illustration-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/bulb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/create-account-dark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/create-account-light.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/create-deal-review-complete.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/create-deal-type-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/create-deal-type-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/create-deal-type-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/create-deal-type-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-checkbox-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-checkbox-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-checkbox-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-radio-img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-radio-img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/custom-radio-img-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/discord.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/external-content.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/faq-illustration.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/gift.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/girl-with-laptop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/header-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/laptop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/misc-coming-soon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/misc-mask-dark.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/misc-mask-dark.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/misc-mask-light.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/misc-mask-light.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/misc-under-maintenance.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/pixinvent-qr.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/pricing-plan-basic.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/pricing-plan-enterprise.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/pricing-plan-standard.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/profile-banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/pages/profile-banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/pages/rocket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/products/google-home.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/products/iphone-11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/ar.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/en.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/locales/fr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/vercel.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/auth/AclGuard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/auth/AuthGuard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/auth/GuestGuard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-snippet/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-snippet/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/card-stats-horizontal-with-details/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/card-stats-horizontal/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/card-stats-square/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/card-stats-vertical/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/card-stats-with-area-chart/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/card-statistics/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-checkbox/basic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-checkbox/icons/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-checkbox/image/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-checkbox/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-radio/basic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-radio/icons/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-radio/image/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/custom-radio/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/customizer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/components/customizer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/icon/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/autocomplete/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/avatar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/avatar/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/badge/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/badge/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/chip/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/chip/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/text-field/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/timeline-dot/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/mui/timeline-dot/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/option-menu/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/components/option-menu/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/option-menu/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/components/option-menu/types.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/page-header/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/page-header/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/plan-details/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/plan-details/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/react-apexcharts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/react-draft-wysiwyg/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/repeater/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/repeater/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/scroll-to-top/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/components/scroll-to-top/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/sidebar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/sidebar/type.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/spinner/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/components/window-wrapper/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/context/settingsContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/hooks/useBgColor.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/hooks/useClipboard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/hooks/useSettings.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/BlankLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/BlankLayoutWithAppBar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/HorizontalLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/Layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/VerticalLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/blank-layout-with-appBar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/horizontal/app-bar-content/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/horizontal/navigation/HorizontalNavGroup.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/horizontal/navigation/HorizontalNavItems.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/horizontal/navigation/HorizontalNavLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/horizontal/navigation/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/LanguageDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/ModeToggler.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/NotificationDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/ShortcutsDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/UserDropdown.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/footer/FooterContent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/shared-components/footer/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/appBar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/Drawer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/VerticalNavGroup.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/VerticalNavHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/VerticalNavItems.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/VerticalNavLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/VerticalNavSectionTitle.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/components/vertical/navigation/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/layouts/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/fullcalendar/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/keen-slider/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-apexcharts/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-cleave/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-credit-cards/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-datepicker/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-draft-wysiwyg/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-dropzone/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/react-hot-toast/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/libs/recharts/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/styles/mui/stepper.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/ThemeComponent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/ThemeOptions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/breakpoints/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/globalStyles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/accordion.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/alerts.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/autocomplete.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/avatars.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/backdrop.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/backdrop.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/badge.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/breadcrumbs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/breadcrumbs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/button-group.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/button-group.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/button.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/button.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/card.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/card.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/checkbox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/checkbox.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/chip.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/chip.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/dataGrid.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/dialog.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/dialog.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/divider.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/drawer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/drawer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/fab.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/fab.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/icon-button.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/icon-button.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/input.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/input.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/link.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/list.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/list.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/menu.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/menu.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/pagination.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/pagination.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/paper.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/paper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/popover.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/popover.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/progress.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/progress.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/radio.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/radio.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/rating.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/select.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/slider.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/slider.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/snackbar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/snackbar.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/switches.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/table.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/tabs.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/tabs.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/timeline.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/timeline.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/toggleButton.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/tooltip.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/tooltip.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/overrides/typography.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/@core/theme/overrides/typography.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/palette/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/shadows/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/spacing/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/theme/typography/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/create-emotion-cache.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/format.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/get-daterange.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/get-initials.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/hex-to-rgba.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/is-float.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/rgba-to-hex.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@core/utils/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/app-bar-search/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/calendar.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/chat.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/email.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/invoice.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/permissions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/apps/userList.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/auth/jwt.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/autocomplete/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/cards/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/components/data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/iconify-icons/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/mock.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/pages/faq.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/pages/help-center.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/pages/pricing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/pages/profile.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/server-side-menu/horizontal.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/server-side-menu/vertical.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/table/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/table/static-data.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/@fake-db/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/acl.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/auth.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/i18n.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/i18n.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/configs/themeConfig.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/configs/themeConfig.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/AuthContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/context/types.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hooks/useAuth.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/bundle-icons-react.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/bundle-icons-react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/bundle-icons-react.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/icons-bundle-react.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/svg/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/iconify-bundle/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/UserLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/UserThemeOptions.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/Autocomplete.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/Direction.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/Translations.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/UserIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/acl/Can.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/acl/CanViewNavGroup.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/acl/CanViewNavLink.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/acl/CanViewNavSectionTitle.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/acl/getHomeRoute.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/horizontal/AppBarContent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/horizontal/ServerSideNavItems.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/vertical/AppBarContent.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/components/vertical/ServerSideNavItems.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/horizontal/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/vertical/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/401.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/404.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/500.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/_document.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/acl/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/calendar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/chat/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/email/[folder].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/email/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/email/label/[label].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/add/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/edit/[id].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/edit/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/preview/[id].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/preview/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/print/[id].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/invoice/print/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/permissions/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/roles/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/user/list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/apps/user/view/[tab].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/charts/apex-charts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/charts/chartjs/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/charts/recharts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/accordion/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/alerts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/avatars/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/badges/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/button-group/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/buttons/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/chips/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/dialogs/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/list/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/menu/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/more/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/pagination/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/progress/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/ratings/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/snackbar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/swiper/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/tabs/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/timeline/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/toast/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/components/tree-view/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dashboards/analytics/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dashboards/crm/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/dashboards/ecommerce/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forgot-password/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/autocomplete/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/checkbox/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/custom-inputs/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/editor/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/file-uploader/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/input-mask/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/pickers/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/radio/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/select/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/slider/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/switch/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/text-field/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-elements/textarea/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-layouts/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-validation/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/forms/form-wizard/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/login/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/account-settings/[tab].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/forgot-password-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/forgot-password-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/login-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/login-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/login-with-appbar/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/register-multi-steps/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/register-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/register-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/reset-password-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/reset-password-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/two-steps-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/two-steps-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/verify-email-v1/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/auth/verify-email-v2/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/dialog-examples/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/faq/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/help-center/[category]/[subcategory]/[article].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/help-center/[category]/[subcategory]/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/help-center/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/misc/401-not-authorized/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/misc/404-not-found/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/misc/500-server-error/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/misc/coming-soon/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/misc/under-maintenance/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/pricing/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/user-profile/[tab].tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/wizard-examples/checkout/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/wizard-examples/create-deal/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/pages/wizard-examples/property-listing/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/register/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tables/data-grid/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/tables/mui/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/cards/actions/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/cards/advanced/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/cards/basic/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/cards/statistics/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/cards/widgets/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/icons/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/ui/typography/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/calendar/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/chat/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/email/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/invoice/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/permissions/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/apps/user/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/calendarTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/calendarTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/chatTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/chatTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/emailTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/emailTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/invoiceTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/invoiceTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/permissionTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/permissionTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/apps/userTypes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/apps/userTypes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/types/forms/reactDatepickerTypes.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/calendar/AddEventSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/calendar/AddEventSidebar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/calendar/Calendar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/calendar/Calendar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/calendar/SidebarLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/calendar/SidebarLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/ChatContent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/ChatContent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/ChatLog.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/ChatLog.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/SendMsgForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/SendMsgForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/SidebarLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/SidebarLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/UserProfileLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/UserProfileLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/chat/UserProfileRight.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/chat/UserProfileRight.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/email/ComposePopup.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/email/Email.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/email/MailDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/email/MailDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/email/MailLog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/email/SidebarLeft.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/email/SidebarLeft.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/add/AddActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/add/AddActions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/add/AddCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/add/AddCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/add/AddNewCustomer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/edit/Edit.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/edit/EditActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/edit/EditActions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/edit/EditCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/edit/EditCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/list/TableHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/preview/Preview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/preview/PreviewActions.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/preview/PreviewActions.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/preview/PreviewCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/invoice/preview/PreviewCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/print/PrintPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/shared-drawer/AddPaymentDrawer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/invoice/shared-drawer/SendInvoiceDrawer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/permissions/TableHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/roles/RoleCards.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/roles/RoleCards.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/roles/Table.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/roles/TableHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/list/AddUserDrawer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/apps/user/list/AddUserDrawer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/list/TableHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserSubscriptionDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserSuspendDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewAccount.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewBilling.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewConnection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewLeft.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewNotification.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewPage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewRight.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UserViewSecurity.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UsersInvoiceListTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/apps/user/view/UsersProjectListTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexAreaChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexBarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexCandlestickChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexColumnChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexDonutChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexHeatmapChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexLineChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexRadarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexRadialBarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/apex-charts/ApexScatterChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsAreaChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsBarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsBubbleChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsHorizontalBarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsLineChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsPolarAreaChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsRadarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/chartjs/ChartjsScatterChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsAreaChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsAreaChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsBarChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsBarChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsLineChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsLineChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsPieChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsPieChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsRadarChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsRadarChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/charts/recharts/RechartsScatterChart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/charts/recharts/RechartsScatterChart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/accordion/AccordionActions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/accordion/AccordionControlled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/accordion/AccordionCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/accordion/AccordionSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/accordion/AccordionSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsActions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsDescription.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsDismissible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsFilled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsOutlined.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/alerts/AlertsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsGrouped.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsGroupedPullUp.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsGroupedPullUpWithTooltip.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsImage.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsLetter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsVariants.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/avatars/AvatarsWithBadge.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesAlignment.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesDot.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesLight.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesMaxValue.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesOverlap.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/badges/BadgesVisibility.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupSplit.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonGroupVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleEnforceValue.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleMultiple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/button-group/ButtonToggleVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsContained.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsFab.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsFabSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsIcons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsOutlined.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsText.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsTonal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/buttons/ButtonsWithIconAndLabel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsArray.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsAvatar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsClickable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsDisabled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsLight.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsOnDelete.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsRounded.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/chips/ChipsVariants.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogAlert.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogConfirmation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogForm.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogFullScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogRespoFullScreen.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogTransition.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/dialogs/DialogsScroll.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListDense.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListItemSelected.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListNested.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListProgress.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListSecondary.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListStickySubheader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListUsers.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListWithCheckbox.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/list/ListWithSwitch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuComposition.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuContext.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuMaxHeight.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuSelected.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/menu/MenuTransition.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationButtons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationControlled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationDisabled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationOutlined.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationRanges.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationRounded.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/pagination/PaginationSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressCircularColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressCircularControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressCircularCustomization.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressCircularIndeterminate.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressCircularWithLabel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearBuffer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearCustomization.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearIndeterminate.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressLinearWithLabel.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/progress/ProgressSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsHalf.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsHoverFeedback.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/ratings/RatingsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarAlert.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarConsecutive.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarControlSlideDirection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarPositioned.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/snackbar/SnackbarTransition.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperAutoSwitch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperCentered.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperControls.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperDefault.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperFader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperFreeMode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperLoop.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperMultipleSlides.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperMutationObserver.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperSpacing.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperThumbnails.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/swiper/SwiperZoom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsCentered.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsColor.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsCustomizedVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsForcedScroll.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsFullWidth.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsIcon.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsNav.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsSimple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tabs/TabsVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/timeline/TimelineCenter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/timeline/TimelineFilled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/timeline/TimelineOutlined.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/timeline/TimelineSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastBlank.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastCustom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastCustomPosition.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastEmoji.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastError.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastMultiLine.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastPromise.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastSuccess.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/toast/ToastThemed.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewControlled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewGmailClone.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewMultiSelection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewRichObject.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/components/tree-view/TreeViewSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsEarningReports.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsMonthlyCampaignState.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsOrderVisits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsProject.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsSalesByCountries.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsSourceVisits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsSupportTracker.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsTotalEarning.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/analytics/AnalyticsWebsiteAnalyticsSlider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmActiveProjects.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmActivityTimeline.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmBrowserStates.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmEarningReportsWithTabs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmLastTransaction.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmProjectStatus.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmRevenueGrowth.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmSalesWithAreaChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmSalesWithRadarChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/crm/CrmSessions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceCongratulationsJohn.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceEarningReports.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceExpenses.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceGeneratedLeads.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceInvoiceTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceOrders.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommercePopularProducts.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceProfit.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceRevenueReport.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceStatistics.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboards/ecommerce/EcommerceTransactions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteAsynchronousRequest.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCheckboxes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCountry.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCreatable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCustom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCustomFilter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteCustomInput.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteDisabledOptions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteFixedOptions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteFreeSolo.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteGrouped.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteLimitTags.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteMediumSize.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteMultipleValues.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteProps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/autocomplete/AutocompleteVariants.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesCustomIcons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesLabelPlacement.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesShowError.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/checkbox/CheckboxesSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomCheckboxBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomCheckboxIcons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomCheckboxImg.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomInputsSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomRadioBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomRadioIcons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/custom-inputs/CustomRadioImg.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/editor/EditorControlled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/editor/EditorSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/editor/EditorUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/file-uploader/FileUploaderMultiple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/file-uploader/FileUploaderRestrictions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/file-uploader/FileUploaderSingle.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/file-uploader/FileUploaderSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/input-mask/InputMaskExamples.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/input-mask/InputMaskSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersCallbacks.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersCustomInput.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersCustomization.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersIncludeExclude.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersLocale.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersMinMax.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersMonthYearDropdowns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersMonthYearQuarter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersOptions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersSpecificRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/pickers/PickersTime.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioColor.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioGroup.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioLabelPlacement.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioShowError.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/radio/RadioStandalone.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectCustom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectGrouping.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectMultiple.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectNative.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectProps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectVariants.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/select/SelectWithDialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderCustomColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderCustomMarks.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderDiscrete.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderInvertedTrack.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderLabelAlwaysVisible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderMinimumDistance.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderRange.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderRemovedTrack.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderRestrictedValues.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderSmallSteps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/slider/SliderVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesColors.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesLabelPlacement.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/switch/SwitchesStandalone.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldColor.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldControlledUncontrolled.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldCustom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldFormProps.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldIcons.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldInputAdornment.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldLayout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldSizes.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldValidation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/text-field/TextFieldVariant.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/textarea/TextareaCustom.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/textarea/TextareaSourceCode.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-elements/textarea/TextareaVariant.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsAlignment.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsAlignment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsBasic.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsBasic.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsCollapsible.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsCollapsible.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsIcons.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsIcons.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsSeparator.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsSeparator.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsTabs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-layouts/FormLayoutsTabs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-validation/FormValidationAsync.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-validation/FormValidationBasic.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-validation/FormValidationBasic.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-validation/FormValidationSchema.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-validation/FormValidationSchema.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperAlternativeLabel.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperAlternativeLabel.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperCustomDot.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperCustomHorizontal.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperCustomHorizontal.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperCustomVertical.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperCustomVertical.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperLinearWithValidation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperLinearWithValidation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperVerticalWithNumbers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperVerticalWithNumbers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperVerticalWithoutNumbers.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/forms/form-wizard/StepperVerticalWithoutNumbers.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/AccountSettings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/TabAccount.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/TabBilling.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/TabConnections.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/TabNotifications.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/TabSecurity.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/billing/BillingAddressCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/billing/BillingHistoryTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/billing/CurrentPlanCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/billing/PaymentMethodCard.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/security/ChangePasswordCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/account-settings/security/ChangePasswordCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/security/CreateApiKey.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/account-settings/security/CreateApiKey.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/account-settings/security/TwoFactorAuthentication.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/AuthIllustrationV1Wrapper.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/FooterIllustrationsV2.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepAccountDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepAccountDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepBillingDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepBillingDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepPersonalInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/StepPersonalInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/auth/register-multi-steps/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogAddAddress.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogAddCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogAddCard.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogAuthentication.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogAuthentication.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogCreateApp.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogCreateApp.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogEditUserInfo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogEditUserInfo.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogPricing.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogPricing.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogReferEarn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogReferEarn.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogShareProject.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/dialog-examples/DialogShareProject.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/create-app-tabs/DialogTabBilling.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/create-app-tabs/DialogTabDatabase.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/create-app-tabs/DialogTabDetails.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/dialog-examples/create-app-tabs/DialogTabFramework.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/faq/FaqFooter.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/faq/FaqFooter.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/faq/FaqHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/faq/FaqHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/faq/Faqs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/faq/Faqs.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/article/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/landing/HelpCenterLandingArticlesOverview.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/landing/HelpCenterLandingFooter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/landing/HelpCenterLandingHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/landing/HelpCenterLandingKnowledgeBase.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/help-center/subcategory/index.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/misc/FooterIllustrations.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/pricing/PricingCTA.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/pricing/PricingFooter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/pricing/PricingHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/pricing/PricingPlans.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/pricing/PricingTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/UserProfile.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/UserProfileHeader.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/UserProfileHeader.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/connections/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/connections/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/profile/AboutOverivew.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/profile/ActivityTimeline.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/profile/ActivityTimeline.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/profile/ConnectionsTeams.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/profile/ConnectionsTeams.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/profile/ProjectsTable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/profile/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/profile/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/projects/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/projects/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/user-profile/teams/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/user-profile/teams/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepAddress.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepAddress.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepCart.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepCart.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepConfirmation.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepConfirmation.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepPayment.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/StepPayment.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/checkout/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealType.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealType.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealUsage.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepDealUsage.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepReview.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/StepReview.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/create-deal/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPersonalDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPersonalDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPriceDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPriceDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyArea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyArea.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyDetails.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyDetails.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyFeatures.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/StepPropertyFeatures.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/pages/wizard-examples/property-listing/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/QuickSearchToolbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/ServerSideToolbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableBasicSort.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableColumns.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableEditable.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableFilter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableSelection.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/data-grid/TableServerSide.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableBasic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableCollapsible.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableCustomized.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableDense.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableSortSelect.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableSpanning.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/mui/TableStickyHeader.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/actions/CardActionAll.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/actions/CardActionClose.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/actions/CardActionCollapse.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/actions/CardActionRefresh.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardActiveProjects.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardActivityTimeline.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardBrowserStates.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardCongratulationsJohn.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardEarningReports.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardLastTransaction.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardMonthlyCampaignState.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardOrders.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardPopularProducts.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardSalesByCountries.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardSourceVisits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardTransactions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/advanced/CardWebsiteAnalyticsSlider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardAppleWatch.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardFacebook.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardHorizontalRatings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardImgTop.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardInfluencer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardLinkedIn.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardMembership.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardMobile.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardNavigation.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardNavigationCenter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardSupport.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardTwitter.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardUser.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardVerticalRatings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/basic/CardWithCollapse.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsAverageDailySales.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsAvgDailyTraffic.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsExpenses.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsGeneratedLeads.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsHorizontal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsImpression.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsOrder.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsOrderVisits.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsProfit.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsRevenueGrowth.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsSales.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsSessions.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsSquare.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsStatistics.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsSubscribersOrders.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsVertical.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/statistics/CardStatisticsWithAreaChart.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsEarningReports.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsEarningReportsWithTabs.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsProjectStatus.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsRevenueReport.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsSales.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsSupportTracker.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/cards/widgets/CardWidgetsTotalEarning.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/typography/TypographyHeadings.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/ui/typography/TypographyTexts.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2k5UX38YdtlKBtwudW7aybiVqZt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78ce2855-73c8-4068-a9ee-1022d41615ca" name="Changes" comment="" />
+      <created>1722572969920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722572969920</updated>
+      <workItem from="1722572972493" duration="398000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/src/iconify-bundle/bundle-icons-react.js" />
+        <option value="$PROJECT_DIR$/src/iconify-bundle/bundle-icons-react.d.ts" />
+      </list>
+    </option>
+  </component>
+</project>
