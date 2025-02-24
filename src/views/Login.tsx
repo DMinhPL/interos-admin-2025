@@ -181,7 +181,7 @@ const Login = ({ mode }: { mode: SystemMode }) => {
           <form
             noValidate
             autoComplete='off'
-            action={() => {}}
+            action={() => { }}
             onSubmit={handleSubmit(onSubmit)}
             className='flex flex-col gap-6'
           >
@@ -252,7 +252,7 @@ const Login = ({ mode }: { mode: SystemMode }) => {
               Login
             </Button>
             <div className='flex justify-center items-center flex-wrap gap-2'>
-              <Typography>New on our platform?</Typography>
+              <Typography>New on our platform 1?</Typography>
               <Typography component={Link} href={getLocalizedUrl('/register', locale as Locale)} color='primary'>
                 Create an account
               </Typography>
