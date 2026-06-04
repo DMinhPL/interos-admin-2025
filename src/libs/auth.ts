@@ -6,6 +6,8 @@ import { PrismaClient } from '@prisma/client'
 import type { NextAuthOptions } from 'next-auth'
 import type { Adapter } from 'next-auth/adapters'
 
+import { users } from '@/app/api/login/users'
+
 const prisma = new PrismaClient()
 
 export const authOptions: NextAuthOptions = {
@@ -24,7 +26,10 @@ export const authOptions: NextAuthOptions = {
        * As we are using our own Sign-in page, we do not need to change
        * username or password attributes manually in following credentials object.
        */
-      credentials: {},
+      credentials: {
+        email: { label: "Email", type: "text", placeholder: "jsmith" },
+        password: { label: "Password", type: "password" }
+      },
       async authorize(credentials) {
         /*
          * You need to provide your own logic here that takes the credentials submitted and returns either
@@ -34,33 +39,35 @@ export const authOptions: NextAuthOptions = {
          */
         const { email, password } = credentials as { email: string; password: string }
 
+        console.log('Credentials:', { email, password })
+
         try {
           // ** Login API Call to match the user credentials and receive user data in response along with his role
-          const res = await fetch(`${process.env.API_URL}/auth/login`, {
-            method: 'POST',
-            headers: {
-              Accept: 'application/json',
-              'Content-Type': 'application/json'
-            },
-            body: JSON.stringify({ email, password })
-          })
+          // const res = await fetch(`${process.env.API_URL}/auth/login`, {
+          //   method: 'POST',
+          //   headers: {
+          //     Accept: 'application/json',
+          //     'Content-Type': 'application/json'
+          //   },
+          //   body: JSON.stringify({ email, password })
+          // })
 
-          const data = await res.json()
+          // const data = await res.json()
 
-          if (res.status === 401) {
-            throw new Error(JSON.stringify(data))
-          }
+          // if (res.status === 401) {
+          //   throw new Error(JSON.stringify(data))
+          // }
 
-          if (res.status === 200) {
-            /*
-             * Please unset all the sensitive information of the user either from API response or before returning
-             * user data below. Below return statement will set the user object in the token and the same is set in
-             * the session which will be accessible all over the app.
-             */
-            return data
-          }
+          // if (res.status === 200) {
+          //   /*
+          //    * Please unset all the sensitive information of the user either from API response or before returning
+          //    * user data below. Below return statement will set the user object in the token and the same is set in
+          //    * the session which will be accessible all over the app.
+          //    */
+          //   return data
+          // }
 
-          return null
+          return users
         } catch (e: any) {
           throw new Error(e.message)
         }
